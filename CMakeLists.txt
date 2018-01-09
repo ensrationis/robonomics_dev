@@ -9,7 +9,6 @@ project(robonomics_dev)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   actionlib
-  ros_opcua_communication
 )
 
 ## System dependencies are found with CMake's conventions
