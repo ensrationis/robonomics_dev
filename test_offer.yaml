@@ -1,5 +1,5 @@
 model: {
-  "multihash": 'Qmf9CdcoCb7Z1NCnKSE8jtJtZpudKY8d57EepKbc4eVcHM'
+  "multihash": 'Qmf9CdcoCb7Z1NCnKSE8jtJtZpudKY8d57EepKbc4eVcH9'
 }
 objective: {
   "multihash": 'QmcbZrAzymM5xaNR8skt7nz6j9fuPo8mttJ2HRKkMUbzb6'
@@ -11,7 +11,7 @@ cost: {
   "uint256": '0'
 }
 lighthouse: {
-  "address": '0x202a09A451DE674d2d65Bf1C90968a8d8F72cf7b'
+  "address": '0xD40AC7F1e5401e03D00F5aeC1779D8e5Af4CF9f1'
 }
 validator: {
   "address": '0x0000000000000000000000000000000000000000'

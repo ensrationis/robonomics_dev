@@ -34,7 +34,7 @@ ipfs --api /ip4/127.0.0.1/tcp/5001 swarm connect /ip4/35.204.57.79/tcp/4001/ipfs
 # Launch liability
 . ws/devel/setup.bash
 roslaunch robonomics_liability liability.launch \
-    lighthouse_contract:="airalab.lighthouse.5.robonomics.eth" \
+    lighthouse_contract:="stable.lighthouse.5.robonomics.eth" \
     keyfile:="$WORKSPACE/keyfile" \
     keyfile_password_file:="$WORKSPACE/keyfile_password_file" \
     web3_http_provider:="https://mainnet.infura.io/v3/cd7368514cbd4135b06e2c5581a4fff7" \
