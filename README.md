@@ -25,7 +25,12 @@ git clone --recursive https://github.com/airalab/robonomics_dev
 
 ```
 cd robonomics_dev
-./sidechain_dev.sh
+./sidechain_env.sh
+```
+or to use Ethereum Mainnet:
+```
+cd robonomics_dev
+./mainnet_env.sh
 ```
 
 > At the first time this script builds `robonomics_comm`, creates `keyfile` and `keyfile_password_file` files
